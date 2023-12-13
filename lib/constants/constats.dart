@@ -1,0 +1,8 @@
+const String imgurl_2 =
+    'https://s3-alpha-sig.figma.com/img/d195/76c7/92ccde5b4e0138abe732f043b09d1510?Expires=1703462400&Signature=HKPZyPJPgypAPJDIZkeDcXeZOiKy4RZ9TNl0c5TjNDX0QwIOXpzVQWMRw2v4LHhdsaO2oACurRfS-GpyCerxA21pUgbZgBpgxtRtAx-dVXhAiFOCapDJbjFgBWxkem2b33f13KwvcRpVxFMiPOic8IutQNcZG1cn1P4-GwI~Msub2Ih6om8QfEHiJFr4YlnWEjhCBqMfoggsOgb0anab5ZiqvMq9Ztw6l2lOM1kE76aqMsk6r6qlqpyMeYZEeq4~Wh1KVdY692gJdJw0Ady06IBBRCVGmTTiU4iFRO9qWqoFKP9TBGGZMW4hOpdZ7OEjl~7UO6pYkOGLvvuqTsCRTw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+
+const String imgurl_1 =
+    'https://s3-alpha-sig.figma.com/img/dba8/e96f/cacf108dca2fac29d9781989ba99526d?Expires=1703462400&Signature=UdnDQwvfNHgHKHrJw4e3wPzW2z8CIPmqeDLpj6YNouDYS23lNwGmFsWckCaoEnyE5qQzG2YI6VYOcbrwFKW-QYB4lVV5JP~B49yFlzysWrutDKImKIuqEb8LiflBB3pTslM2j80kGwkyDg1xlcu7YLgXHhxptvDCxpx41yXAh7HODBpsLVtCXDZCuRc~Kka8vctMXEa7aRS-XwCEZqC1gxb4HgJgkRDSrOseMFYoK4mbdZutjaPendFh~j6E0nA6Hu9uSlbYsZWSW1hbZQOFJyGSHVk-E~lmStrJocT0eer3gFArmbMoCK-a5Zycma1rXvZlyQLs4MvE4ajmIF03pA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4';
+
+const String imgurl_3 = '';
+const String imgurl_4 = '';
