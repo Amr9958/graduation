@@ -42,8 +42,8 @@ class welcom extends StatelessWidget {
                 Positioned(
                   top: 150,
                   child: Padding(
-                    padding:
-                        const EdgeInsets.symmetric(horizontal: 100, vertical: 5),
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 100, vertical: 5),
                     child: Text(
                       'Welcome To\n Smart School',
                       textAlign: TextAlign.center,
